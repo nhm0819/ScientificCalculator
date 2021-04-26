@@ -40,12 +40,15 @@ Using Java and Android Studio
 
 + Calculate in order operator priority
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_1.png?raw=true" width="30%" height="30%">  
+<br>  
 
 + Calculate in parentheses first
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_2.png?raw=true" width="30%" height="30%">
+<br>  
 
 + Calculation can be continued based on the result value
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_3.png?raw=true" width="30%" height="30%">
+<br>  
 
 + Can input real numbers
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_4.png?raw=true" width="30%" height="30%">
