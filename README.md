@@ -36,3 +36,6 @@ Using Java and Android Studio
 5. Output double type result 
 
 ## 5. Implement with an application
+
+(https://github.com/nhm0819/ScientificCalculatorApp/tree/master/images/app_1.png)
+
