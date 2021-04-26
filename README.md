@@ -16,6 +16,7 @@ Using Java and Android Studio
 * Basic
   * eraser
   * clear
+  * preview
   
 ## 2. Structure Design
  1. Use Case Diagram
@@ -37,5 +38,14 @@ Using Java and Android Studio
 
 ## 5. Implement with an application
 
-![app_1](https://github.com/nhm0819/ScientificCalculatorApp/tree/master/images/app_1.png)
++ Calculate in order operator priority
+<img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_1.png?raw=true" width="30%" height="30%">  
 
++ Calculate in parentheses first
+<img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_2.png?raw=true" width="30%" height="30%">
+
++ Calculation can be continued based on the result value
+<img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_3.png?raw=true" width="30%" height="30%">
+
++ Can input real numbers
+<img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_4.png?raw=true" width="30%" height="30%">
