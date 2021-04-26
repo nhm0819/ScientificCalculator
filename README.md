@@ -38,17 +38,17 @@ Using Java and Android Studio
 
 ## 5. Implement with an application
 
-**Calculate in order operator priority**
+**Calculate in order operator priority**  
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_1.png?raw=true" width="40%" height="40%">  
-<br>  
+<br><br>  
 
-**Calculate in parentheses first**
+**Calculate in parentheses first**  
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_2.png?raw=true" width="40%" height="40%">
-<br>  
+<br><br>  
 
-**Calculation can be continued based on the result value**
+**Calculation can be continued based on the result value**  
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_3.png?raw=true" width="40%" height="40%">
-<br>  
+<br><br>  
 
-**Can input real numbers**
+**Can input real numbers**  
 <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/app_4.png?raw=true" width="40%" height="40%">
