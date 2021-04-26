@@ -37,5 +37,5 @@ Using Java and Android Studio
 
 ## 5. Implement with an application
 
-(https://github.com/nhm0819/ScientificCalculatorApp/tree/master/images/app_1.png)
+![](https://github.com/nhm0819/ScientificCalculatorApp/tree/master/images/app_1.png)
 
