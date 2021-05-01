@@ -22,6 +22,7 @@ Using Java and Android Studio
  1. Use Case Diagram
  2. Sequence Diagram
  3. Class Diagram
+ <img src="https://github.com/nhm0819/ScientificCalculatorApp/blob/master/images/ClassDiagram.png?raw=true" width="70%" height="70%">
  
  
 ## 3. Data Structure Design
